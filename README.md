@@ -1,2 +1,2 @@
-# McGill-University-Certificate
+# Certificate
 Certifications
